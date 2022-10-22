@@ -1,6 +1,6 @@
 - 👋 It's me, hi, I'm the problem-solver, Artur!
-- 👀 I’m interested in data analysis, machine learning applied to molecular biophysics!
-- 🌱 I’m currently doing a PhD in chemistry with focus on computational chemistry!
+- 👀 I’m interested in data analysis and machine learning applied to molecular biophysics!
+- 🌱 I’m currently doing a PhD in computational chemistry with focus on renewable energies and environmentally-friendly processes!
 - 💞️ I’m looking to collaborate on molecular dynamics analysis and artificial intelligence projects.
 - 📫 How to reach me: artur.hermano@hotmail.com
 
