@@ -1,4 +1,4 @@
-- 👋 Hi, it's me, Artur!
+- 👋 It's me, hi, I'm the problem-solver, Artur!
 - 👀 I’m interested in data analysis, machine learning applied to molecular biophysics!
 - 🌱 I’m currently doing a PhD in chemistry with focus on computational chemistry!
 - 💞️ I’m looking to collaborate on molecular dynamics analysis and artificial intelligence projects.
