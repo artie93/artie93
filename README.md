@@ -27,7 +27,7 @@
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
- <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+ <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> 
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg">
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
