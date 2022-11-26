@@ -1,10 +1,12 @@
-## Hello, I'm Artur!<img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">Welcome to my GitHub page! 
+## Hello, I'm Artur! <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> Welcome to my GitHub page! 
 
-- 👋 It's me, hi, I'm the problem-solver, it's me!
-- 👀 I’m interested in data analysis and machine learning applied to molecular biophysics!
-- 🌱 I’m currently doing a PhD in computational chemistry with focus on renewable energies and environmentally-friendly processes!
-- 💞️ I’m looking to collaborate on molecular dynamics analysis and artificial intelligence projects.
-- 📫 How to reach me: artur.hermano@hotmail.com
+- 🎶 It's me, hi, I'm the problem-solver, it's me!
+- 🧑🏽‍💻 I’m interested in data analysis and machine learning applied to molecular biophysics!
+- 👾 I believe that coding and science should be fun and collaborative.
+- 🚀 I’m currently doing a PhD in computational chemistry with focus on renewable energies and environmentally-friendly processes!
+- 🧩 I can help you with a multi-disciplinary approach to target a biological problem.
+- 🎯 I’m looking to collaborate on molecular dynamics analysis and artificial intelligence projects.
+- 🏹 How to reach me: artur.hermano@hotmail.com
  
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+love+Computational+Chemistry!;I+love+open-source!;I'm+always+learning!;&center=true&width=500&height=50"></a>
