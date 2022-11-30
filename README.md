@@ -17,8 +17,7 @@
 
 <div align="left">
   <a href="https://github.com/artie93">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artie93&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artie93&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=artie93&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/><img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artie93&layout=compact&langs_count=7&theme=transparent"/>
 </div> 
 <div style="display: inline_block"><br>
  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -33,8 +32,9 @@
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg">
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
- <img align="center" src="https://user-images.githubusercontent.com/115626610/204092450-dd7d449b-698f-4d95-8cd4-969665f56a2b.gif">
+ <img align="center" src="https://user-images.githubusercontent.com/115626610/204856978-d7584f25-6741-468c-a364-9ed42d608d6e.gif">
  
+
   ##
 <div> 
   <a href="https://scholar.google.com/citations?user=_qmkOSwAAAAJ"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge&logoWidth=20" height="28" alt="Google Scholar" /></a>
@@ -44,7 +44,7 @@
   <a href="mailto:artur.hermano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/artur-hermano-sampaio-dias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
-  ![Snake animation](https://github.com/artie93/artie93/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/artie93/artie93/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 <!---
