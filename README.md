@@ -1,4 +1,4 @@
-## Hello, I'm Artur! <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> Welcome to my GitHub page! 
+## Hello, I'm Artur! <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> Welcome to my GitHub page!  
  
 - 🎶 It's me, hi, I'm the problem-solver, it's me! 
 - 🧑🏽‍💻 I’m interested in data analysis and machine learning applied to molecular biophysics!  
