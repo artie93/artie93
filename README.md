@@ -22,6 +22,7 @@
 <div style="display: inline_block"><br>
  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+ <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
