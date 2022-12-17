@@ -2,7 +2,7 @@
  
 - 🎶 It's me, hi, I'm the problem-solver, it's me!
 - 🧑🏽‍💻 I’m interested in data analysis and machine learning applied to molecular biophysics! 
-- 👾 I believe that coding and science should be fun and collaborative.
+- 👾 I believe that coding and science should be fun and collaborative. 
 - 🚀 I’m currently doing a PhD in computational chemistry with focus on renewable energies and environmentally-friendly processes!
 - 🧩 I can help you with a multi-disciplinary approach to target a biological problem.
 - 🎯 I’m looking to collaborate on molecular dynamics analysis and artificial intelligence projects.
