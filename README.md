@@ -39,7 +39,7 @@
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
  <img align="center" src="https://user-images.githubusercontent.com/115626610/204856978-d7584f25-6741-468c-a364-9ed42d608d6e.gif">
  
-
+ 
   ##
 <div> 
   <a href="https://scholar.google.com/citations?user=_qmkOSwAAAAJ"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge&logoWidth=20" height="28" alt="Google Scholar" /></a>
