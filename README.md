@@ -6,7 +6,7 @@
 - 🚀 I’m currently doing a PhD in computational chemistry with focus on renewable energies and environmentally-friendly processes!
 - 🧩 I can help you with a multi-disciplinary approach to target a biological problem.
 - 🎯 I’m looking to collaborate on molecular dynamics analysis and artificial intelligence projects.
-- 🏹 How to reach me: artur.hermano@hotmail.com   
+- 🏹 How to reach me: artur.hermano@hotmail.com  
   
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+love+Computational+Chemistry!;I+love+open-source!;I'm+always+learning!;&center=true&width=500&height=50"></a>
