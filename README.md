@@ -39,8 +39,13 @@
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg">
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+ <div style="display: inline_block">
+ 
  <img align="center" src="https://user-images.githubusercontent.com/115626610/204856978-d7584f25-6741-468c-a364-9ed42d608d6e.gif">
  
+ [![Spotify](https://novatorem-sigma.vercel.app/api/spotify?background_color=ffffff&border_color=008080&songName=025043)](https://open.spotify.com/user/12134503649)
+
+ </div>
  
   ##
 <div> 
