@@ -11,11 +11,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+love+Computational+Chemistry!;I+love+open-source!;I'm+always+learning!;&center=true&width=500&height=50"></a>
  
-<div style="display: inline_block">
  
-###                             Here is a random welcome-to-my-profile joke: <img align="center" src="https://readme-jokes.vercel.app/api?borderColor=green&qColor=orange&aColor=red&theme=blue-green&bgColor=white"/>
- 
+&nbsp;<div align="center">
+[![Spotify](https://novatorem-sigma.vercel.app/api/spotify?background_color=ffffff&border_color=768080&songName=025043)](https://open.spotify.com/user/12134503649)
 </div>
+ 
 </p>
  
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
@@ -39,13 +39,7 @@
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg">
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
- <div style="display: inline_block">
- 
  <img align="center" src="https://user-images.githubusercontent.com/115626610/204856978-d7584f25-6741-468c-a364-9ed42d608d6e.gif">
- 
- [![Spotify](https://novatorem-sigma.vercel.app/api/spotify?background_color=ffffff&border_color=008080&songName=025043)](https://open.spotify.com/user/12134503649)
-
- </div>
  
   ##
 <div> 
