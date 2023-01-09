@@ -13,7 +13,7 @@
  
  
 &nbsp;<div align="center">
-[![Spotify](https://novatorem-sigma.vercel.app/api/spotify?background_color=ffffff&border_color=768080&songName=025043)](https://open.spotify.com/user/12134503649)
+[![Spotify](https://novatorem-sigma.vercel.app/api/spotify?background_color=ffffff&border_color=045d5d&artistName=045d5d&songName=045d5d)](https://open.spotify.com/user/12134503649)
 </div>
  
 </p>
