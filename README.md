@@ -13,6 +13,14 @@
  
  
 &nbsp;<div align="center">
+ <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" alt="🎶" width="32" height="32">
+</picture> currently vibing to: <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" alt="🎶" width="32" height="32">
+</picture>
+  
 [![Spotify](https://novatorem-sigma.vercel.app/api/spotify?background_color=ffffff&border_color=045d5d&artistName=045d5d&songURI=045d5d)](https://open.spotify.com/user/12134503649)
 </div>
  
