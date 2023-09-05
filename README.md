@@ -4,7 +4,7 @@
 - 🧑🏽‍💻 I’m interested in data analysis and machine learning applied to molecular biophysics!    
 - 👾 I believe that coding and science should be fun and collaborative. 
 - 🚀 I’m currently doing a PhD in computational chemistry with focus on renewable energies and environmentally-friendly processes!
-- 🧩 My multi-disciplinary skills are the key! 
+- 🧩 My multi-disciplinary skills are the key!  
 - 🎯 I’m looking to collaborate on molecular dynamics analysis and artificial intelligence projects.
 - 🏹 How to reach me: artur.hermano@hotmail.com  
    
