@@ -10,10 +10,13 @@
    
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+love+Computational+Chemistry!;I+love+open-source!;I'm+always+learning!;&center=true&width=500&height=50"></a>
+
 &nbsp;<div align="center">
  <picture>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" alt="🎶" width="48" height="48"> </picture>
-<h3> currently vibing to: </h3> 
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" alt="🎶" width="32" height="32"> </picture>
+ currently vibing to: <picture>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" alt="🎶" width="32" height="32">
+</picture>
 
 [![Spotify](https://novatorem-sigma.vercel.app/api/spotify?background_color=ffffff&border_color=045d5d&artistName=045d5d&songURI=045d5d)](https://www.linkedin.com/in/artur-hermano-sampaio-dias/)
 </div>
