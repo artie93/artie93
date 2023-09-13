@@ -10,18 +10,13 @@
    
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+love+Computational+Chemistry!;I+love+open-source!;I'm+always+learning!;&center=true&width=500&height=50"></a>
- 
- 
 &nbsp;<div align="center">
-### <picture>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" alt="🎶" width="32" height="32">
-</picture> currently vibing to: <picture>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" alt="🎶" width="32" height="32">
-</picture>
-  
-[![Spotify](https://novatorem-sigma.vercel.app/api/spotify?background_color=ffffff&border_color=045d5d&artistName=045d5d&songURI=045d5d)](https://open.spotify.com/user/12134503649)
+ <picture>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" alt="🎶" width="48" height="48"> </picture>
+<h3> currently vibing to: </h3> 
+
+[![Spotify](https://novatorem-sigma.vercel.app/api/spotify?background_color=ffffff&border_color=045d5d&artistName=045d5d&songURI=045d5d)](https://www.linkedin.com/in/artur-hermano-sampaio-dias/)
 </div>
- 
 </p>
  
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
