@@ -10,7 +10,7 @@
    
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+love+Computational+Chemistry!;I+love+open-source!;I'm+always+learning!;&center=true&width=500&height=50"></a>
-
+ 
 &nbsp;<div align="center">
  <picture>  
  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.webp" type="image/webp">
