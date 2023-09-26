@@ -17,7 +17,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" alt="🎶" width="48" height="48"> 
   </picture> 
   
- <h3> currently vibing to: </h3>
+ currently vibing to: <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" alt="🎶" width="48" height="48">
 
 [![Spotify](https://novatorem-sigma.vercel.app/api/spotify?background_color=ffffff&border_color=045d5d&artistName=045d5d&songURI=045d5d)](https://www.linkedin.com/in/artur-hermano-sampaio-dias/)
 </div>
